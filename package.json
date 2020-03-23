@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@types/pdfjs-dist": "^2.1.0",
-    "pdfjs-dist": "^2.2.228",
+    "pdfjs-dist": "^2.3.200",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
